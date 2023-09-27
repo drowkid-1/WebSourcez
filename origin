@@ -1,0 +1,9 @@
+#!bin/bash
+
+script(){
+wget https://raw.githubusercontent.com/NetVPS/Multi-Script/main/ChuGH-5.7u/setup
+}
+
+archs(){
+}
+
